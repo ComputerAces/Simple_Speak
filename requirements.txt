@@ -1,0 +1,6 @@
+# Simple_Speak/requirements.txt
+outetts
+playsound==1.2.2 
+# Note: playsound 1.3.0 has issues on some platforms, 1.2.2 is often more stable.
+# Add other TTS libraries here if you implement custom voice loading, e.g.:
+# TTS # (outetts)
